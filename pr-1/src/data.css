@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box{
+    margin-bottom:50px ;
+}
+.main-box{
+    width: 100%;
+    background-color: rgba(182, 182, 182, 0.35);
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    border-radius: 25px;
+}
+
+.midel{
+    font-weight: 400;
+}
